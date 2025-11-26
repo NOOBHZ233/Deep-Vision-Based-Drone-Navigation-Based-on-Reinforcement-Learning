@@ -24,6 +24,7 @@ python3 learn.py
 
 ## Author
 Chengwei Zhang
+
 2017809834@qq.com
 
 ## References
