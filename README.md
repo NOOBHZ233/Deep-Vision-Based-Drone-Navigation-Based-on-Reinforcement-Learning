@@ -1,6 +1,10 @@
 # Deep-Vision-Based-Drone-Navigation-Based-on-Reinforcement-Learning
 This is an extension based on the gym-pybullet-drones environment, using kinematic information and RGBD camera details for drone navigation reinforcement learning training.
 
+This mainly involves the base class capturing RGBD camera information and the RL class navigating the Reward function. The actual test used Betaflight and NX, with state estimation information provided by Vins, and was conducted in a FastPlanner environment.
+
+Record the test results of the remaining modules.
+
 ![NavTest](assets/NavTest.gif)   ![NavTrain](assets/NavTrain.gif)   
 
 ## Installation
@@ -19,8 +23,11 @@ pip3 install -e .
 
 ## Try it 
 # train
+```sh
 cd Deep-Vision-Based-Drone-Navigation-Based-on-Reinforcement-Learning/examples
-python3 learn.py 
+python3 learn.py  
+
+```
 
 ## Author
 Chengwei Zhang
