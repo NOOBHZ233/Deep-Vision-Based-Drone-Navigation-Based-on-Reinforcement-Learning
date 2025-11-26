@@ -26,6 +26,7 @@ python3 learn.py
 Chengwei Zhang
 2017809834@qq.com
 
+## References
 @INPROCEEDINGS{panerati2021learning,
       title={Learning to Fly---a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control}, 
       author={Jacopo Panerati and Hehui Zheng and SiQi Zhou and James Xu and Amanda Prorok and Angela P. Schoellig},
